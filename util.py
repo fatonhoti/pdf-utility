@@ -206,10 +206,6 @@ merge_state_label = tk.Label(buttons_frame, textvariable=merge_state_label_text)
 merge_state_label.grid(column=1, row=6, sticky="W")
 merge_state_label.grid_remove()
 
-# Split button
-# merge_btn = ttk.Button(buttons_frame, text="Split", command=None)
-# merge_btn.grid(column=1, row=6, sticky="W")
-
 # Close button
 close_btn = ttk.Button(root_frame, text="Close", command=root.destroy)
 close_btn.grid(column=3, row=6)
