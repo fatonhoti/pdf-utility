@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Conway's Game of Life</h3>
+  <h3 align="center">PDF-utility</h3>
 
   <p align="center">
     A small PDF utility program that allows you to quickly and easily merge PDF-files.
