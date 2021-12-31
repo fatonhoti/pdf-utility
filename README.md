@@ -10,19 +10,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
 ### Built With
 
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
@@ -45,7 +32,7 @@ The following instructions should get a demo going on your PC.
    ```
    pip install -r requirements.txt
    ```
-4. Run the game
+4. Run the program
    ```
    python util.py
    ```
